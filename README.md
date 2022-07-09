@@ -44,6 +44,13 @@ run the program functions
 
 ## Authors
 
+👤 **Melaku Eshetu**
+
+- GitHub: [Melaku05](https://github.com/Melaku05)
+- Twitter: [devMo7amed](https://twitter.com/melaku_mel)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/melaku-eshetu/)
+
+
 👤 **Mohammed Salah**
 
 - GitHub: [Mo7amedSMahdi](https://github.com/Mo7amedSMahdi)
@@ -56,11 +63,6 @@ run the program functions
 - Twitter: [@ZahindaY](https://twitter.com/ZahindaY)
 - LinkedIn: [Yannick MULIKUZA](https://linkedin.com/in/linkedinhandle)
 
-👤 **Eshetu Melaku**
-
-- GitHub: [Melaku05](https://github.com/Melaku05)
-- Twitter: [devMo7amed](https://twitter.com/melaku_mel)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/melaku-eshetu/)
 
 ## 🤝 Contributing
 
